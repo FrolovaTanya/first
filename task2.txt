@@ -1,0 +1,3 @@
+pwd
+cd z:/3D
+ls -hl --all
